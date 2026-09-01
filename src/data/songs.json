@@ -203,6 +203,25 @@
     "youtube": "https://www.youtube.com/watch?v=ekr2nIex040"
   },
   {
+    "id": "asi-e5c7638841",
+    "sourceTitle": "Así",
+    "baseTitle": "Así",
+    "title": "Así",
+    "language": "es",
+    "primaryArtists": [
+      "Abraham Mateo",
+      "Maria Becerra",
+      "Big One"
+    ],
+    "authors": [
+      "Abraham Mateo",
+      "Maria Becerra",
+      "Daniel Ismael Real",
+      "Leaan Eley"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Jj9T-RC3OOQ"
+  },
+  {
     "id": "asicomoyo-0146c89ab8",
     "sourceTitle": "Asi Como Yo",
     "baseTitle": "Asi como yo",
@@ -926,6 +945,23 @@
       "Cristian Camilo Álvarez Ospina"
     ],
     "youtube": "https://www.youtube.com/watch?v=smBqmZEcmUA"
+  },
+  {
+    "id": "dlejitos-f223412b49",
+    "sourceTitle": "D' LEJITOS",
+    "baseTitle": "D' LEJITOS",
+    "title": "D' LEJITOS",
+    "language": "es",
+    "primaryArtists": [
+      "Chino & Nacho",
+      "Elena Rose"
+    ],
+    "authors": [
+      "Jesús Alberto Miranda Pérez",
+      "Miguel Ignacio Mendoza Donatti",
+      "Andrea Elena Mangiamarchi"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=uhCQojCBc7k"
   },
   {
     "id": "doctorworkitout-428bd0cf68",
@@ -1906,6 +1942,22 @@
       "Edgar Barrera"
     ],
     "youtube": "https://www.youtube.com/watch?v=VBcs8DZxBGc"
+  },
+  {
+    "id": "mikaela-d705860dec",
+    "sourceTitle": "Mikaela",
+    "baseTitle": "Mikaela",
+    "title": "Mikaela",
+    "language": "es",
+    "primaryArtists": [
+      "Yomil",
+      "Ricardo Leyva"
+    ],
+    "authors": [
+      "Roberto Hidalgo Puentes",
+      "Ricardo Leyva"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=TUY7oTyoR0w"
   },
   {
     "id": "mimeneo-96115b3c28",
