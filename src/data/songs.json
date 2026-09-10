@@ -637,6 +637,21 @@
     "youtube": "https://www.youtube.com/watch?v=qlyZRe7yrbA"
   },
   {
+    "id": "comopami-6b3cbe42fe",
+    "sourceTitle": "Como Pa' Mí",
+    "baseTitle": "Como Pa' Mí",
+    "title": "Como Pa' Mí",
+    "language": "es",
+    "primaryArtists": [
+      "Indy Fontaine"
+    ],
+    "authors": [
+      "Indy Fontaine",
+      "Guianko Gómez"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=r7_JpuGTYPA"
+  },
+  {
     "id": "contigo-0937d7804b",
     "sourceTitle": "CONTIGO",
     "baseTitle": "CONTIGO",
@@ -1875,6 +1890,21 @@
     "youtube": "https://www.youtube.com/watch?v=C728BBQr0Xs"
   },
   {
+    "id": "mediovampiro-ebd6d6fdcc",
+    "sourceTitle": "Medio Vampiro",
+    "baseTitle": "Medio Vampiro",
+    "title": "Medio Vampiro",
+    "language": "es",
+    "primaryArtists": [
+      "Leoni Torres"
+    ],
+    "authors": [
+      "Leonardo Torres Álvarez",
+      "Edgar Fernando Rodríguez"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=IwQAujvaV50"
+  },
+  {
     "id": "meequivoquecontigo-c185e06ee0",
     "sourceTitle": "Me Equivoqué Contigo",
     "baseTitle": "Me equivoqué contigo",
@@ -2330,7 +2360,7 @@
       "Andrea Elena Mangiamarchi",
       "Andrés José Gavillán Batista",
       "Daniel Rondon",
-      "Hector Mazzari",
+      "Hector Andre Mazzarri Ramos",
       "Julian Reininger",
       "Maria Becerra",
       "Tini",
@@ -2863,6 +2893,29 @@
       "Ramón Lavado Martínez"
     ],
     "youtube": "https://www.youtube.com/watch?v=G6jVLvaU2yk"
+  },
+  {
+    "id": "sorrypapi-02df82987d",
+    "sourceTitle": "Sorry Papi",
+    "baseTitle": "Sorry Papi",
+    "title": "Sorry Papi",
+    "language": "es",
+    "primaryArtists": [
+      "Topic",
+      "Becky G"
+    ],
+    "authors": [
+      "Tobias Topic",
+      "Maximilian Riehl",
+      "Loris Cimino",
+      "Alexander Tidebrink",
+      "Hector Andre Mazzarri Ramos",
+      "Manuel Lorente Freire",
+      "Daniel Rondon",
+      "Rebbeca Marie Gomez",
+      "Walter Leon Aguilar"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=CxJu0bncG0k"
   },
   {
     "id": "tactoquellegoelreparto-4a3c7212e1",
