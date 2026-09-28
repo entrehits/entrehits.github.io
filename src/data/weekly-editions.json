@@ -13198,5 +13198,137 @@
         }
       ]
     }
+  },
+  {
+    "id": "2026-37",
+    "year": 2026,
+    "number": 37,
+    "date": "2026-09-27",
+    "charts": {
+      "national": [
+        {
+          "rank": 1,
+          "songId": "eldoctorado-76d58b8d11",
+          "movement": 1,
+          "weeks": 7
+        },
+        {
+          "rank": 2,
+          "songId": "nohepodidoolvidarte-8a65d99de0",
+          "movement": -1,
+          "weeks": 11
+        },
+        {
+          "rank": 3,
+          "songId": "mikaela-d705860dec",
+          "movement": 1,
+          "weeks": 5
+        },
+        {
+          "rank": 4,
+          "songId": "mediovampiro-ebd6d6fdcc",
+          "movement": 1,
+          "weeks": 3
+        },
+        {
+          "rank": 5,
+          "songId": "elchiquitico-b9b4ac9465",
+          "movement": -2,
+          "weeks": 14
+        },
+        {
+          "rank": 6,
+          "songId": "comopami-6b3cbe42fe",
+          "movement": 2,
+          "weeks": 3
+        },
+        {
+          "rank": 7,
+          "songId": "vuelvoaseryo-7603b2a16b",
+          "movement": -1,
+          "weeks": 7
+        },
+        {
+          "rank": 8,
+          "songId": "cogelosuave-2141857326",
+          "movement": -1,
+          "weeks": 9
+        },
+        {
+          "rank": 9,
+          "songId": "lafoto-c14b337b7e",
+          "movement": "N",
+          "weeks": 1
+        },
+        {
+          "rank": 10,
+          "songId": "namore-a9143f5cf2",
+          "movement": -1,
+          "weeks": 10
+        }
+      ],
+      "international": [
+        {
+          "rank": 1,
+          "songId": "bringyourlove-3e36d7d001",
+          "movement": 0,
+          "weeks": 10
+        },
+        {
+          "rank": 2,
+          "songId": "patitoa3-d542f2e175",
+          "movement": 1,
+          "weeks": 8
+        },
+        {
+          "rank": 3,
+          "songId": "efectossecundarios-be86986c97",
+          "movement": 1,
+          "weeks": 7
+        },
+        {
+          "rank": 4,
+          "songId": "asi-e5c7638841",
+          "movement": 1,
+          "weeks": 5
+        },
+        {
+          "rank": 5,
+          "songId": "savemetonight-57c69ff712",
+          "movement": -3,
+          "weeks": 12
+        },
+        {
+          "rank": 6,
+          "songId": "sorrypapi-02df82987d",
+          "movement": 2,
+          "weeks": 3
+        },
+        {
+          "rank": 7,
+          "songId": "antesqueeltiemposevaya-581f5f1a29",
+          "movement": -1,
+          "weeks": 12
+        },
+        {
+          "rank": 8,
+          "songId": "unanamas-dacddd8a79",
+          "movement": -1,
+          "weeks": 11
+        },
+        {
+          "rank": 9,
+          "songId": "elavion-63b0555e8e",
+          "movement": "N",
+          "weeks": 1
+        },
+        {
+          "rank": 10,
+          "songId": "oropuro-dc59b2c7fc",
+          "movement": "N",
+          "weeks": 1
+        }
+      ]
+    }
   }
 ]

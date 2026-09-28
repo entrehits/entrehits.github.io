@@ -1067,6 +1067,26 @@
     "youtube": "https://www.youtube.com/watch?v=CEsip93GxdA"
   },
   {
+    "id": "elavion-63b0555e8e",
+    "sourceTitle": "El Avión",
+    "baseTitle": "El avión",
+    "title": "El avión",
+    "language": "es",
+    "primaryArtists": [
+      "Monsieur Periné",
+      "Carlos Vives"
+    ],
+    "authors": [
+      "Carlos Vives",
+      "Martín Velilla",
+      "Catalina García Barahona",
+      "Santiago Prieto Sarabia",
+      "Michaël Brun",
+      "Jorge Villamizar"
+    ],
+    "spotify": "https://open.spotify.com/intl-es/track/20Mt9BQVdMWNSyekweMvrc"
+  },
+  {
     "id": "elchiquitico-b9b4ac9465",
     "sourceTitle": "El Chiquitico",
     "baseTitle": "El chiquitico",
@@ -1607,6 +1627,18 @@
       "Alexander Abreu Manresa"
     ],
     "youtube": "https://www.youtube.com/watch?v=aeEH51DzSBE"
+  },
+  {
+    "id": "lafoto-c14b337b7e",
+    "sourceTitle": "La Foto",
+    "baseTitle": "La foto",
+    "title": "La foto",
+    "language": "es",
+    "primaryArtists": [
+      "El Shadow",
+      "Nicky Jam"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=AZk5j2oKoyk"
   },
   {
     "id": "lafuerte-97999605bd",
@@ -2294,6 +2326,16 @@
       "Eliosbel Galarraga"
     ],
     "youtube": "https://www.youtube.com/watch?v=q6g8L2E-3_g"
+  },
+  {
+    "id": "oropuro-dc59b2c7fc",
+    "sourceTitle": "Oro Puro",
+    "baseTitle": "Oro puro",
+    "title": "Oro puro",
+    "language": "es",
+    "primaryArtists": [
+      "Joey Montana"
+    ]
   },
   {
     "id": "otranochemas-c3b92c54c5",
