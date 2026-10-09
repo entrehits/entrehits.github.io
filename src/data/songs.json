@@ -37,6 +37,28 @@
     "youtube": "https://www.youtube.com/watch?v=vBynw9Isr28"
   },
   {
+    "id": "agua-e0ecdd0b8c",
+    "sourceTitle": "AGUA",
+    "baseTitle": "Agua",
+    "title": "Agua",
+    "language": "es",
+    "primaryArtists": [
+      "Maluma",
+      "Shakira"
+    ],
+    "authors": [
+      "Shakira Isabel Mebarak Ripoll",
+      "Juan Luis Londoño Arias",
+      "Alejandro Ramirez Suarez",
+      "Yon Mad",
+      "Yan Mad",
+      "Polo Parra",
+      "Alexander Castillo",
+      "Martín Rodríguez Vicente"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=2-NkuLjtGNY"
+  },
+  {
     "id": "aleale-0b7563c0ba",
     "sourceTitle": "Ale Ale",
     "baseTitle": "Ale ale",
@@ -306,6 +328,23 @@
       "Roberto Ferrante"
     ],
     "youtube": "https://www.youtube.com/watch?v=F1aLiDCFugs"
+  },
+  {
+    "id": "basspersuades-05f3d5a92f",
+    "sourceTitle": "Bass Persuades",
+    "baseTitle": "Bass Persuades",
+    "title": "Bass Persuades",
+    "language": "en",
+    "primaryArtists": [
+      "Miley"
+    ],
+    "authors": [
+      "Miley Cyrus",
+      "Gregory \"Aldae\" Hein",
+      "Kid Harpoon",
+      "Michael Pollack"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc"
   },
   {
     "id": "beautifulthings-76867bed2c",
@@ -1130,6 +1169,22 @@
       "Massimo Ferrara"
     ],
     "youtube": "https://www.youtube.com/watch?v=0FFHbX2U4eQ"
+  },
+  {
+    "id": "ellayyo-6a6e06ef55",
+    "sourceTitle": "Ella y Yo",
+    "baseTitle": "Ella y yo",
+    "title": "Ella y yo",
+    "language": "es",
+    "primaryArtists": [
+      "Son Tentación",
+      "Los 4"
+    ],
+    "authors": [
+      "Anthony Santos",
+      "William Omar Landrón Rivera"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=dda5qJWqC6I"
   },
   {
     "id": "elwhatsapp-7a05174f95",
@@ -2786,6 +2841,18 @@
       "Tyler Spry"
     ],
     "youtube": "https://www.youtube.com/watch?v=y8HLQn3YAiw"
+  },
+  {
+    "id": "semana-efe358e57d",
+    "sourceTitle": "Semana",
+    "baseTitle": "Semana",
+    "title": "Semana",
+    "language": "es",
+    "primaryArtists": [
+      "L Kimii",
+      "Lenier"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=sbZrv9bMNxI"
   },
   {
     "id": "senorbendito-2a53bceed4",
