@@ -886,6 +886,21 @@
     "youtube": "https://www.youtube.com/watch?v=7KrNh9YaeDg"
   },
   {
+    "id": "dejavu-8436600054",
+    "sourceTitle": "Deja Vu",
+    "baseTitle": "Deja Vu",
+    "title": "Deja Vu",
+    "language": "es",
+    "primaryArtists": [
+      "Charly & Johayron"
+    ],
+    "authors": [
+      "Carlos de Jesús Coronado Chirino",
+      "Roberto Johayron Amores Rodríguez"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=-psQbCwTMYE"
+  },
+  {
     "id": "dembow-e7c0653837",
     "sourceTitle": "Dem Bow",
     "baseTitle": "Dem bow",
@@ -1379,6 +1394,23 @@
       "Austin Post"
     ],
     "youtube": "https://www.youtube.com/watch?v=ErGiKyl0ONs"
+  },
+  {
+    "id": "forumylova-569530b108",
+    "sourceTitle": "For u My lova",
+    "baseTitle": "For u My lova",
+    "title": "For u My lova",
+    "language": "es",
+    "primaryArtists": [
+      "KAROL G"
+    ],
+    "authors": [
+      "Edgar Barrera",
+      "Carolina Giraldo Navarro",
+      "Andrés Jael Correa Ríos",
+      "Marco Masis"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=FNCFIaeJjTA"
   },
   {
     "id": "fueculpadeusted-94bf8fc961",
