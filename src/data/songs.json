@@ -59,6 +59,21 @@
     "youtube": "https://www.youtube.com/watch?v=2-NkuLjtGNY"
   },
   {
+    "id": "aircha-ad5b80503d",
+    "sourceTitle": "AIRCHA",
+    "baseTitle": "Aircha",
+    "title": "Aircha",
+    "language": "es",
+    "primaryArtists": [
+      "Christopher Velez"
+    ],
+    "authors": [
+      "Christopher Velez",
+      "Juan Daniel Shool"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=iPrIdKNkKus"
+  },
+  {
     "id": "aleale-0b7563c0ba",
     "sourceTitle": "Ale Ale",
     "baseTitle": "Ale ale",
@@ -3021,6 +3036,22 @@
       "Bizarrap"
     ],
     "youtube": "https://www.youtube.com/watch?v=oBofuVYDoG4"
+  },
+  {
+    "id": "songo-1a45bc827e",
+    "sourceTitle": "SON & GO",
+    "baseTitle": "Son & Go",
+    "title": "Son & Go",
+    "language": "es",
+    "primaryArtists": [
+      "Rafa Tena",
+      "Alain Pérez"
+    ],
+    "authors": [
+      "Rafael de Tena",
+      "Yaser González de la Peña"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=TH9brvnh9MA"
   },
   {
     "id": "sonriele-dc3a5895ca",
