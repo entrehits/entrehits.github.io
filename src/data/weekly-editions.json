@@ -13990,5 +13990,137 @@
         }
       ]
     }
+  },
+  {
+    "id": "2026-43",
+    "year": 2026,
+    "number": 43,
+    "date": "2026-11-08",
+    "charts": {
+      "national": [
+        {
+          "rank": 1,
+          "songId": "mediovampiro-ebd6d6fdcc",
+          "movement": 1,
+          "weeks": 9
+        },
+        {
+          "rank": 2,
+          "songId": "mikaela-d705860dec",
+          "movement": -1,
+          "weeks": 11
+        },
+        {
+          "rank": 3,
+          "songId": "lafoto-c14b337b7e",
+          "movement": 1,
+          "weeks": 7
+        },
+        {
+          "rank": 4,
+          "songId": "comopami-6b3cbe42fe",
+          "movement": -1,
+          "weeks": 9
+        },
+        {
+          "rank": 5,
+          "songId": "ellayyo-6a6e06ef55",
+          "movement": 0,
+          "weeks": 5
+        },
+        {
+          "rank": 6,
+          "songId": "semana-efe358e57d",
+          "movement": 1,
+          "weeks": 5
+        },
+        {
+          "rank": 7,
+          "songId": "dejavu-8436600054",
+          "movement": 1,
+          "weeks": 3
+        },
+        {
+          "rank": 8,
+          "songId": "eldoctorado-76d58b8d11",
+          "movement": -2,
+          "weeks": 13
+        },
+        {
+          "rank": 9,
+          "songId": "songo-1a45bc827e",
+          "movement": 1,
+          "weeks": 2
+        },
+        {
+          "rank": 10,
+          "songId": "nohepodidoolvidarte-8a65d99de0",
+          "movement": -1,
+          "weeks": 17
+        }
+      ],
+      "international": [
+        {
+          "rank": 1,
+          "songId": "efectossecundarios-be86986c97",
+          "movement": 0,
+          "weeks": 13
+        },
+        {
+          "rank": 2,
+          "songId": "sorrypapi-02df82987d",
+          "movement": 1,
+          "weeks": 9
+        },
+        {
+          "rank": 3,
+          "songId": "asi-e5c7638841",
+          "movement": -1,
+          "weeks": 11
+        },
+        {
+          "rank": 4,
+          "songId": "elavion-63b0555e8e",
+          "movement": 0,
+          "weeks": 7
+        },
+        {
+          "rank": 5,
+          "songId": "agua-e0ecdd0b8c",
+          "movement": 1,
+          "weeks": 5
+        },
+        {
+          "rank": 6,
+          "songId": "basspersuades-05f3d5a92f",
+          "movement": 1,
+          "weeks": 5
+        },
+        {
+          "rank": 7,
+          "songId": "patitoa3-d542f2e175",
+          "movement": -2,
+          "weeks": 14
+        },
+        {
+          "rank": 8,
+          "songId": "forumylova-569530b108",
+          "movement": 1,
+          "weeks": 3
+        },
+        {
+          "rank": 9,
+          "songId": "aircha-ad5b80503d",
+          "movement": 1,
+          "weeks": 2
+        },
+        {
+          "rank": 10,
+          "songId": "oropuro-dc59b2c7fc",
+          "movement": -2,
+          "weeks": 7
+        }
+      ]
+    }
   }
 ]
