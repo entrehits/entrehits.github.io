@@ -295,6 +295,20 @@
     "youtube": "https://www.youtube.com/watch?v=XUoXE3bmDJY"
   },
   {
+    "id": "aymamita-d18d3c9bf0",
+    "sourceTitle": "Ay Mamita!!!",
+    "baseTitle": "Ay Mamita",
+    "title": "Ay Mamita",
+    "language": "es",
+    "primaryArtists": [
+      "Juan Guillermo"
+    ],
+    "authors": [
+      "Marciano Hernández"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=xN9VUG-orAA"
+  },
+  {
     "id": "azizam-2ccfa1c603",
     "sourceTitle": "Azizam",
     "baseTitle": "Azizam",
@@ -1199,6 +1213,22 @@
       "Massimo Ferrara"
     ],
     "youtube": "https://www.youtube.com/watch?v=0FFHbX2U4eQ"
+  },
+  {
+    "id": "elegisteperderme-84d52bb05b",
+    "sourceTitle": "Elegiste Perderme",
+    "baseTitle": "Elegiste Perderme",
+    "title": "Elegiste Perderme",
+    "language": "es",
+    "primaryArtists": [
+      "Joey Montana"
+    ],
+    "authors": [
+      "Aurelio Enrique Martínez Avila",
+      "Edgardo Antonio Miranda Beiro",
+      "Jose Manuel Henry Rios"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=sHjSooVYGO8"
   },
   {
     "id": "ellayyo-6a6e06ef55",
