@@ -1613,6 +1613,22 @@
     "youtube": "https://www.youtube.com/watch?v=3BVHzsglnto"
   },
   {
+    "id": "hechizo-2e61baa57d",
+    "sourceTitle": "Hechizo",
+    "baseTitle": "Hechizo",
+    "title": "Hechizo",
+    "language": "es",
+    "primaryArtists": [
+      "El Shadow",
+      "Osman"
+    ],
+    "authors": [
+      "Raudel Gómez Hernández",
+      "Osman José Córdoba Orozco"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=IQ8y4Tn3EvA"
+  },
+  {
     "id": "himalaya-b76fb5502f",
     "sourceTitle": "Himalaya",
     "baseTitle": "Himalaya",
@@ -2345,6 +2361,21 @@
     "youtube": "https://www.youtube.com/watch?v=jxyJvFap8Os"
   },
   {
+    "id": "nosoy-66648adc56",
+    "sourceTitle": "NO SOY",
+    "baseTitle": "No soy",
+    "title": "No soy",
+    "language": "es",
+    "primaryArtists": [
+      "Yulien Oviedo"
+    ],
+    "authors": [
+      "Yulien Oviedo Sánchez",
+      "Sergio Ferra Calzada"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=UXgiok6NkrY"
+  },
+  {
     "id": "nosvamos-ec606a101a",
     "sourceTitle": "Nos Vamos",
     "baseTitle": "Nos vamos",
@@ -2448,6 +2479,27 @@
     "youtube": "https://www.youtube.com/watch?v=lmDfmilZ4Xo"
   },
   {
+    "id": "oohlakalakala-67743833b2",
+    "sourceTitle": "Ooh Laka Laka La",
+    "baseTitle": "Ooh Laka Laka La",
+    "title": "Ooh Laka Laka La",
+    "language": "es",
+    "primaryArtists": [
+      "Enrique Iglesias",
+      "Santos Bravos"
+    ],
+    "authors": [
+      "Enrique Iglesias",
+      "Pitbull",
+      "Descemer Bueno",
+      "Carlos Paucar",
+      "José Ángel Sastre Pérez",
+      "Javier Durán Webb",
+      "Ana Mancebo"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ZE39UOBQND8"
+  },
+  {
     "id": "orgullo-b3c9292d7e",
     "sourceTitle": "Orgullo",
     "baseTitle": "Orgullo",
@@ -2514,6 +2566,28 @@
       "Mike Kintish"
     ],
     "youtube": "https://www.youtube.com/watch?v=kgF8B0rF438"
+  },
+  {
+    "id": "pabailar-2a4d5a0eef",
+    "sourceTitle": "Pa' Bailar",
+    "baseTitle": "Pa' Bailar",
+    "title": "Pa' Bailar",
+    "language": "es",
+    "primaryArtists": [
+      "Elvis Crespo",
+      "Beéle"
+    ],
+    "authors": [
+      "Brandon De Jesús López Orozco",
+      "Andy Clay",
+      "Daniel McCausland",
+      "Giovel Simon",
+      "Carlos Humberto Domínguez Carvajal",
+      "Roberto Carlos Sierra Casseres",
+      "Alexander Castillo",
+      "Emiliano Vásquez"
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_oCrIGbeDno"
   },
   {
     "id": "papasito-18c5517d39",
